@@ -1,5 +1,6 @@
 Market Research Proposal – Apple Inc.
-Overview
+Overview:
+
 This project is a comprehensive market research proposal prepared for Apple Inc. The proposal explores Apple’s strategic objectives, market context, and consumer insights, while outlining a robust research design to guide decision-making.
 Objectives
 Apple’s four main business goals addressed in this proposal:
