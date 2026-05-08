@@ -1,6 +1,6 @@
 Market Research Proposal – Apple Inc.
 
-Overview:
+**Overview**:
 
 This project is a comprehensive market research proposal prepared for Apple Inc. The proposal explores Apple’s strategic objectives, market context, and consumer insights, while outlining a robust research design to guide decision-making.
 Objectives
@@ -10,8 +10,8 @@ Apple’s four main business goals addressed in this proposal:
 - Deliver exceptional user experiences with new technologies and personalized services.
 - Prioritize privacy and sustainability, aiming for carbon neutrality by 2030.
 
-📋  
-Research Aims
+ 
+### 📋 **Research Aims**
 
 - Understand consumer preferences and satisfaction across Apple’s ecosystem.
 - Identify emerging trends (AI, AR/VR, sustainability).
@@ -19,8 +19,8 @@ Research Aims
 - Analyze demographic behaviors (Gen Z, Millennials).
 - Evaluate economic factors influencing purchasing decisions.
 
-🧠  
-Methodology
+ 
+### 🧠 **Methodology**
 
 - Research Design: Exploratory + descriptive research to quantify satisfaction, preferences, and perceptions.
 - Data Collection: Online questionnaires and AI-assisted interviews across Apple and competitor users.
@@ -32,15 +32,15 @@ Methodology
 - Logistic Regression (loyalty vs. privacy concerns).
 - Cluster Analysis (segmenting Gen Z/Millennials, regional markets).
 
-📓  
-Key Deliverables
+  
+### 🗒️ **Key Deliverables**
 
 - Analytical Model linking personalization, sustainability, market strategies, and economic dynamics.
 - Hypotheses on satisfaction, personalization, AI adoption, eco-friendly technology, brand trust, loyalty, and market share evolution.
 - Questionnaire designed to capture consumer experiences, preferences, and attitudes toward Apple’s ecosystem.
   
-📈
-Limitations & Further Research
+
+### 📈 **Limitations & Further Research**
 
 - Six-month timeframe restricts tracking of fast-moving tech trends.
 - Sample size may not fully represent Apple’s global user base.
