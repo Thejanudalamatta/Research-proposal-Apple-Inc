@@ -9,7 +9,8 @@ Apple’s four main business goals addressed in this proposal:
 - Drive growth via ecosystem integration and entry into emerging markets.
 - Deliver exceptional user experiences with new technologies and personalized services.
 - Prioritize privacy and sustainability, aiming for carbon neutrality by 2030.
-  
+
+📋  
 Research Aims
 
 - Understand consumer preferences and satisfaction across Apple’s ecosystem.
@@ -17,7 +18,8 @@ Research Aims
 - Assess the impact of privacy initiatives on trust and loyalty.
 - Analyze demographic behaviors (Gen Z, Millennials).
 - Evaluate economic factors influencing purchasing decisions.
-  
+
+🧠  
 Methodology
 
 - Research Design: Exploratory + descriptive research to quantify satisfaction, preferences, and perceptions.
@@ -29,13 +31,15 @@ Methodology
 - Multiple Linear Regression (consumer preferences, sustainability impact).
 - Logistic Regression (loyalty vs. privacy concerns).
 - Cluster Analysis (segmenting Gen Z/Millennials, regional markets).
-  
+
+📓  
 Key Deliverables
 
 - Analytical Model linking personalization, sustainability, market strategies, and economic dynamics.
 - Hypotheses on satisfaction, personalization, AI adoption, eco-friendly technology, brand trust, loyalty, and market share evolution.
 - Questionnaire designed to capture consumer experiences, preferences, and attitudes toward Apple’s ecosystem.
   
+📈
 Limitations & Further Research
 
 - Six-month timeframe restricts tracking of fast-moving tech trends.
